@@ -1,0 +1,12 @@
+{
+  "token": null,
+  "guildID": "421753662617026561",
+  "guildVoiceChannelID": "504416236009029654",
+  "guildTextualChannelID": "556188672597164043",
+  "countdown": {
+    "hour": 20,
+    "minute": 0,
+    "second": 0
+  },
+  "songsNumber": 75
+}
